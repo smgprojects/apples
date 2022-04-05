@@ -1,0 +1,9 @@
+alternaria_leaf_blotch
+black_rot
+brown_rot
+cedar_rust
+fire_blight
+healthy
+nectria_twig_blight
+powdery_mildew
+scab
